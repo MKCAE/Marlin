@@ -43,6 +43,7 @@
 #include "fastio.h"
 #include "utility.h"
 #include "serial.h"
+#include <U8glib.h>
 
 void idle(
   #if ENABLED(ADVANCED_PAUSE_FEATURE)
